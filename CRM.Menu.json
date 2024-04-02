@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "66067a7dfc6bcd79d187c0b1"
+  },
+  "menu": {
+    "header": {
+      "myprofile": {
+        "profile_image": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/profile.png",
+        "user_neme": {
+          "title": "User name",
+          "icon": "https://drive.google.com/file/d/1tvf0f8UO5R_EimIJMP-Lh_i_kPTdYQ2R/view?usp=sharing"
+        },
+        "my_profile": {
+          "title": "My Profile",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/account_circle.png"
+        },
+        "dashboard_filter": {
+          "title": "Dashboard Filter",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/add_road.png"
+        },
+        "logout": {
+          "title": "Logout",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/logout.png"
+        },
+        "dayout_logout": {
+          "title": "Dayout/Logout",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/day+out.png"
+        }
+      },
+      "hamburger": {
+        "hamburger_image": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/list/list+icone.png",
+        "marketing": {
+          "title": "Marketing",
+          "marketing_icon": "marketing_icon",
+          "email": {
+            "title": "Email",
+            "email_icon": "email_icon"
+          },
+          "chats": {
+            "title": "Chats",
+            "chats_icon": "chats_icon"
+          }
+        },
+        "sales": {
+          "title": "Sales",
+          "sales_icon": "sales_icon",
+          "calls": {
+            "title": "Calls",
+            "calls_icon": "calls_icon"
+          },
+          "leads": {
+            "title": "Leads",
+            "leads_icon": "leads_icon"
+          },
+          "sites_visits": {
+            "title": "Sites Visits",
+            "sites_visits_icon": "sites_visits_icon"
+          }
+        },
+        "analytics": {
+          "title": "Analytics",
+          "analytics_icon": "analytics_icon",
+          "updates": {
+            "title": "Updates",
+            "updates_icon": "updates_icon"
+          },
+          "reports": {
+            "title": "Reports",
+            "reports_icon": "reports_icon"
+          }
+        },
+        "others": {
+          "title": "Others",
+          "others_icon": "others_icon",
+          "call_logs": {
+            "title": "Call Logs",
+            "call_logs_icon": "call_logs_icon"
+          },
+          "enquiry": {
+            "title": "Enquiry",
+            "enquiry_icon": "enquiry_icon"
+          },
+          "whatsapp_template": {
+            "title": "Whatsapp Template",
+            "whatsapp_template_icon": "whatsapp_template_icon"
+          },
+          "attendances": {
+            "title": "Attendances",
+            "attendances_icon": "attendances_icon"
+          },
+          "track_locations": {
+            "title": "Track Locations",
+            "track_locations_icon": "track_locations_icon"
+          },
+          "notifications": {
+            "title": "Notifications",
+            "notifications_icon": "notifications_icon"
+          }
+        },
+        "tools": {
+          "title": "Tools",
+          "tools_icon": "tools_icon",
+          "email_templates": {
+            "title": "Email Templates",
+            "email_templates_icon": "email_templates_icon"
+          },
+          "recycle_bin": {
+            "title": "Recycle Bin",
+            "recycle_bin_icon": "recycle_bin_icon"
+          }
+        }
+      },
+      "full_screen": {
+        "title": "Full Screen",
+        "full_screen_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/Vector.png"
+      },
+      "search": {
+        "title": "Search",
+        "search_icon": "search_icon"
+      },
+      "company_logo": {
+        "product_logo": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/ellipse-42x.png",
+        "business_logo": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/brand-logo2x.png"
+      }
+    },
+    "sidemenu": {
+      "home": {
+        "title": "Home",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/Home.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/Home_blue.png"
+      },
+      "calls": {
+        "title": "Calls",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/call.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/call_blue.png"
+      },
+      "enquiry": {
+        "title": "Enquiry",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/enquriy_black.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/enquriy_blue.png"
+      },
+      "leads": {
+        "title": "Leads",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/lead.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/leads_blue.png"
+      },
+      "reports": {
+        "title": "Reports",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/report_black.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/report_blue.png"
+      }
+    },
+    "menu_bar": {
+      "add_features_values": {
+        "value1": "Calls",
+        "value2": "General",
+        "value3": "Email",
+        "value4": "Whatsapp Template",
+        "value5": "Sites Visits",
+        "value6": "Reports",
+        "value7": "Leads",
+        "value8": "Chats",
+        "value9": "Notifications",
+        "value10": "Attandances",
+        "value11": "IVR Balance",
+        "value12": "Email Templates",
+        "value13": "Test"
+      },
+      "menu_images": {
+        "add_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/ADD_plus.png"
+        },
+        "left_arrow_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/arrow_left.png"
+        },
+        "right_arrow_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/arrow_right.png"
+        },
+        "mask_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/Mask+group.png"
+        },
+        "notifications_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/Notification+Button.png"
+        },
+        "refresh_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/refresh.png"
+        },
+        "close_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/close.png"
+        },
+        "search_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/Search.png"
+        }
+      },
+      "menu_text": {
+        "title": "DayIn"
+      }
+    }
+  }
+}]
